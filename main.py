@@ -73,6 +73,8 @@ deny_procedence = ["GITHUB", "DIGITEAL", "NOMINA"]
 
 # * Create a new DataFrame to store the parsed data
 parsed_data = pd.DataFrame(columns=template_columns)
+
+# * Set the account
 account = "K26"
 
 # * Parse the data
