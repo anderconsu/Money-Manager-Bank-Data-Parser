@@ -1,3 +1,6 @@
 .venv/
 Files/*
 Results/*
+
+!Files/.gitkeep
+!Results/.gitkeep
